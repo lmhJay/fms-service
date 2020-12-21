@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1150789-f834-473b-b4b1-9bec35cec648" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\myTools\apache-maven-3.6.3\conf\settings-family.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="lmh" />
+      </list>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="nexus-public" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1ltuxnmbB5g8NXA5Mz8oJIIdq1q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallAdminApplication">
+    <configuration name="MallAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.MallAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.demo.MallDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-portal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.portal.MallPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.search.MallSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1150789-f834-473b-b4b1-9bec35cec648" name="Default Changelist" comment="" />
+      <created>1608428957126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608428957126</updated>
+      <workItem from="1608429040647" duration="11742000" />
+      <workItem from="1608470302184" duration="560000" />
+      <workItem from="1608512724593" duration="586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Console" timestamp="1608456672840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Console/0.0.1366.728@0.0.1366.728" timestamp="1608456672840" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608434530720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608434530720" />
+    <state width="1323" height="250" key="GridCell.Tab.0.bottom" timestamp="1608457188038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608457188038" />
+    <state width="1323" height="250" key="GridCell.Tab.0.center" timestamp="1608457188038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="250" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608457188038" />
+    <state width="1323" height="250" key="GridCell.Tab.0.left" timestamp="1608457188038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="250" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608457188038" />
+    <state width="1323" height="250" key="GridCell.Tab.0.right" timestamp="1608457188038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="250" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608457188038" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1608451072636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1608451072636" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1608456143633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608456143633" />
+    <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1608456492663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1608456492663" />
+  </component>
+</project>

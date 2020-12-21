@@ -1,0 +1,15 @@
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\service\impl\RedisServiceImpl.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\exception\ApiException.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\domain\WebLog.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\api\ResultCode.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\log\WebLogAspect.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\util\RequestUtil.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\api\CommonResult.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\api\CommonPage.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\config\BaseRedisConfig.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\config\BaseSwaggerConfig.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\service\RedisService.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\exception\Asserts.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\exception\GlobalExceptionHandler.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\api\IErrorCode.java
+E:\myTools\familyManageSys\mall-master-real\mall-common\src\main\java\com\macro\mall\common\domain\SwaggerProperties.java
